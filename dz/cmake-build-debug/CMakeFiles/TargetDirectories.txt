@@ -1,0 +1,3 @@
+C:/Users/play1/OneDrive/Radna površina/dz/cmake-build-debug/CMakeFiles/dz.dir
+C:/Users/play1/OneDrive/Radna površina/dz/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/play1/OneDrive/Radna površina/dz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
